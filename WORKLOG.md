@@ -28,3 +28,5 @@
 |Project Plan Document|N/A|N/A|Lindsey Nager|5 hour|
 |Requirements and Specifciations Document|N/A|N/A|Lindsey Nager|5 hour|
 |Use Case Diagram|N/A|N/A|Lindsey Nager|30 Minutes|
+|Team Meeting 02|N/A|N/A|Team (All)| 30 Minutes|
+|Team Meeting 03|N/A|N/A|Team (All)| 30 Minutes|

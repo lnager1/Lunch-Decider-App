@@ -5,7 +5,7 @@
 ## How to launch angular app in development mode for computer:
 In a terminal opened in the project folder (thisFolder/Lunch-Decider-App) run the command
 ``` bash
-ng open --serve
+ng serve --open
 ```
 
 ## How to treat chrome window as a mobile device for mobile development purposes
